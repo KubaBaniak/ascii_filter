@@ -2,6 +2,4 @@
 
 ## To use it properly, clone this repository, install requirements.txt, and run app.py
 
-### python3 app.py   ---> Filters photo named image.png and sets its size to 32 letters displayed horizontally 
-
-### python3 app.py <name> <size>   --->  Filters photo named <name> and sets its size to <size> letters displayed horizontally
+### Then u gotta open the link that flask gives you, and type after the url "/img2ascii/LINKTOTHEPHOTO", to let program find the photo in web and turn it into ascii
